@@ -5,4 +5,4 @@
  1. Run 'bundle install'
  2. Run 'rake db:reset'
  3. To start the program, run 'ruby bin/run.rb'
- Make sure to enter Galaxy, Planet, and Spacestation names exactly as displayed.
+ 4. Make sure to enter Galaxy, Planet, and Spacestation names exactly as displayed.
